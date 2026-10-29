@@ -52,7 +52,7 @@ class WizardTest {
         evilWizard.train()
 
         assertEquals(11, evilWizard.spellPower)
-        assertEquals(1, evilWizard.mana)
+        assertEquals(2, evilWizard.mana)
     }
 
     @Test
